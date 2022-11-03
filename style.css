@@ -1,0 +1,17 @@
+body{ 
+    margin: 0;
+}
+nav{
+    display:  flex;
+}
+header{
+    background-color: steelblue;
+}
+.box{
+    width: 200px;
+}
+address{
+    width: 500px;
+    border: red   solid 2px;
+    padding: 10px ;
+}
