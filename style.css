@@ -1,4 +1,5 @@
 body{ 
+    background-color:bisque;
     margin: 0;
 }
 nav{
@@ -6,6 +7,11 @@ nav{
 }
 header{
     background-color: steelblue;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding: 40px 20px;
+    margin-bottom: 20px;
 }
 .box{
     width: 200px;
@@ -14,4 +20,16 @@ address{
     width: 500px;
     border: red   solid 2px;
     padding: 10px ;
+}
+footer{
+    background-color: steelblue;
+    background-color: steelblue;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding: 40px 20px;
+    margin-bottom: 20px;
+}
+h2{
+    color: white;
 }
